@@ -8,9 +8,9 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>me.songha.machiners</groupId>
+    <groupId>me.songha.rs</groupId>
     <artifactId>machine-rs-db-conn</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-${build.number}-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>machine-rs-db-conn</name>
     <description>machine-rs-db-conn</description>
