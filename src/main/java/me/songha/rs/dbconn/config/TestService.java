@@ -1,4 +1,4 @@
-package me.songha.machiners.config;
+package me.songha.rs.dbconn.config;
 
 import org.springframework.stereotype.Service;
 
